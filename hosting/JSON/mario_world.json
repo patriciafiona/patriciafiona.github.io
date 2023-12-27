@@ -112,7 +112,7 @@
       "imageOpen": "rosalina_open.png",
       "imageClose": "rosalina_closed.png",
       "imageFull": "rosalina_open_02.png",
-      "backgroundColor": "29, 213, 183",
+      "backgroundColor": "29,213,183",
       "fullName": "Princess Rosalina",
       "species": "Human",
       "dialog": "May the starts shine down on you.",
