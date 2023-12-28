@@ -13,7 +13,7 @@
         "species": "Human",
         "dialog": "It's-a me, Mario!",
         "ability": "8.0,8.0,8.0,8.0,8.0",
-        "characterSound": "R.raw.sound_mario_0,R.raw.sound_mario_1,R.raw.sound_mario_2"
+        "characterSound": "sound_mario_0,sound_mario_1,sound_mario_2"
     },
     {
         "name": "Luigi",
@@ -26,7 +26,7 @@
         "species": "Human",
         "dialog": "Eek! No one told me there would be gh-gh-ghosts here! I wish I'd brought my Poltergust 3000 with me.",
         "ability": "6.0,7.0,6.0,7.0,7.0",
-        "characterSound": "R.raw.sound_luigi_0,R.raw.sound_luigi_1,R.raw.sound_luigi_2"
+        "characterSound": "sound_luigi_0,sound_luigi_1,sound_luigi_2"
     },
     {
       "name": "Princess Peach",
@@ -39,7 +39,7 @@
       "species": "Human",
       "dialog": "I can't believe I'm kidnapped... again.",
       "ability": "6.0,7.5,8.0,6.0,6.0",
-       "characterSound": "R.raw.sound_peach_0,R.raw.sound_peach_1,R.raw.sound_peach_2"
+       "characterSound": "sound_peach_0,sound_peach_1,sound_peach_2"
     },
     {
       "name": "Toad",
@@ -51,7 +51,7 @@
       "species": "Mushroom",
       "dialog": "M-M-M-M-M-M-M-Mario! Help! It's Sh-sh-sh-sh-sh-sh-sh-shocking... Mushroom Castle... RIDED! Prince Peach... STOLEN!",
       "ability": "7.0,9.0,6.0,8.0,7.0",
-       "characterSound": "R.raw.sound_toad_0,R.raw.sound_toad_1,R.raw.sound_toad_2"
+       "characterSound": "sound_toad_0,sound_toad_1,sound_toad_2"
     },
     {
       "name": "Bowser",
@@ -63,7 +63,7 @@
       "species": "Koopa",
       "dialog": "Hear this! I will kidnap PeachOVER and OVER until I pull it off! And no one can stop me! Losing is not an option! And neither is giving up!",
       "ability": "6.0,8.0,7.0,9.0,8.0",
-       "characterSound": "R.raw.sound_bowser_0,R.raw.sound_bowser_1,R.raw.sound_bowser_2"
+       "characterSound": "sound_bowser_0,sound_bowser_1,sound_bowser_2"
     },
     {
       "name": "Yoshi",
@@ -76,7 +76,7 @@
       "species": "Yoshi",
       "dialog": "I know! We should team up! Come on! Hop on my back!",
       "ability": "6.0,5.0,8.0,7.0,6.0",
-       "characterSound": "R.raw.sound_yoshi_0,R.raw.sound_yoshi_1,R.raw.sound_yoshi_2"
+       "characterSound": "sound_yoshi_0,sound_yoshi_1,sound_yoshi_2"
     },
     {
       "name": "Daisy",
@@ -89,7 +89,7 @@
       "species": "Human",
       "dialog": "Don't underestimate me, people! Just because I'm a princess doesn't mean I won't fight dirty!",
       "ability": "8.0,8.0,7.0,9.0,6.0",
-       "characterSound": "R.raw.sound_daisy_0,R.raw.sound_daisy_1,R.raw.sound_daisy_2"
+       "characterSound": "sound_daisy_0,sound_daisy_1,sound_daisy_2"
     },
     {
       "name": "Wario",
@@ -101,7 +101,7 @@
       "species": "Human",
       "dialog": "So admit it... Don't I look cool in the game screens? Those long, muscular legs on my sturdy, toned fame... I'm the perfect speciment of a man! ...What!?!? You say I look fat and my quadruple chin looks like a waterfall of flab? Shut up! Taht's just because you have your television set up for widescreen display!",
       "ability": "6.0,5.0,8.0,7.0,9.0",
-       "characterSound": "R.raw.sound_wario_0,R.raw.sound_wario_1,R.raw.sound_wario_2"
+       "characterSound": "sound_wario_0,sound_wario_1,sound_wario_2"
     }, 
     {
       "name": "Waluigi",
@@ -113,7 +113,7 @@
       "species": "Human",
       "dialog": "Hey! You might be getting better, but nobody cheats better than Waluigi! You got that?!",
       "ability": "4.0,6.0,6.5,7.0,6.0",
-       "characterSound": "R.raw.sound_waluigi_0,R.raw.sound_waluigi_1,R.raw.sound_waluigi_2"
+       "characterSound": "sound_waluigi_0,sound_waluigi_1,sound_waluigi_2"
     },
     {
       "name": "Rosalina",
@@ -126,7 +126,7 @@
       "species": "Human",
       "dialog": "May the starts shine down on you.",
       "ability": "7.0,6.0,8.0,7.0,6.0",
-       "characterSound": "R.raw.sound_rosalina_0,R.raw.sound_rosalina_1,R.raw.sound_rosalina_2"
+       "characterSound": "sound_rosalina_0,sound_rosalina_1,sound_rosalina_2"
     },
     {
       "name": "Bowser Jr.",
@@ -138,7 +138,7 @@
       "species": "Koopa",
       "dialog": "Someday... when I'm bigger... I wanna fight that Mario again!",
       "ability": "8.0,7.0,8.0,6.5,5.0",
-       "characterSound": "R.raw.sound_bowser_jr_0,R.raw.sound_bowser_jr_1,R.raw.sound_bowser_jr_2"
+       "characterSound": "sound_bowser_jr_0,sound_bowser_jr_1,sound_bowser_jr_2"
     },
     {
       "name": "Boo",
@@ -150,7 +150,7 @@
       "species": "Boo",
       "dialog": "This board is a scary little spook house that I cooked up a while back.",
       "ability": "8.0,8.0,5.0,6.0,5.0",
-       "characterSound": "R.raw.sound_boo_0,R.raw.sound_boo_1,R.raw.sound_boo_2"
+       "characterSound": "sound_boo_0,sound_boo_1,sound_boo_2"
     },
     {
       "name": "Donkey Kong",
@@ -163,7 +163,7 @@
       "species": "Kong",
       "dialog": "My bananas and my buddy, Diddy Kong, they are gone! The Kremlings will pay! I'll hunt them down through every corner of my island, until I have every last banana from my hoard back!",
       "ability": "6.0,8.0,7.0,6.0,6.5",
-       "characterSound": "R.raw.sound_donkey_kong_0,R.raw.sound_donkey_kong_1,R.raw.sound_donkey_kong_2"
+       "characterSound": "sound_donkey_kong_0,sound_donkey_kong_1,sound_donkey_kong_2"
     },
     {
       "name": "Diddy Kong",
@@ -175,7 +175,7 @@
       "species": "Kong",
       "dialog": "I am the brave Diddy Kong. Show yourself, if you are friently. If not, then get ready for the fight of your life!",
       "ability": "6.0,8.0,5.5,8.0,7.0",
-       "characterSound": "R.raw.sound_diddy_kong_0,R.raw.sound_diddy_kong_1,R.raw.sound_diddy_kong_2"
+       "characterSound": "sound_diddy_kong_0,sound_diddy_kong_1,sound_diddy_kong_2"
     }
   ]
 }
