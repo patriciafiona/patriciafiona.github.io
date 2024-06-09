@@ -1,0 +1,186 @@
+{
+  "status": 200,
+  "source": "patriciafiona.github.io",
+  "results":[
+    {
+      "id": 321227,
+      "category": "armchair",
+      "name": "Modway Engage Accent Chair with Ottoman",
+      "price": 1049.0,
+      "discount_percentage": 35,
+      "brand": "Modway",
+      "color": "#",
+      "dimensions": {
+        "width": 40,
+        "height": 33,
+        "dimension": 33
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/modway-modway-engage-accent-chair-with-ottoman/"
+    },
+    {
+      "id": 531354,
+      "category": "armchair",
+      "name": "Rooms to Go Ridgewater Chair",
+      "price": 499.0,
+      "discount_percentage": 44,
+      "brand": "Rooms To Go",
+      "color": "#",
+      "dimensions": {
+        "width": 41,
+        "height": 40,
+        "dimension": 37
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/rooms-to-go-rooms-to-go-ridgewater-chair/"
+    },
+    {
+      "id": 527866,
+      "category": "armchair",
+      "name": "Mitchell Gold + Bob Williams English Roll Arm Club Chair",
+      "price": 2000.0,
+      "discount_percentage": 72,
+      "brand": "Mitchell Gold + Bob Williams",
+      "color": "#",
+      "dimensions": {
+        "width": 32,
+        "height": 29,
+        "dimension": 34
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/rooms-to-go-rooms-to-go-ridgewater-chair/"
+    },
+    {
+      "id": 538323,
+      "category": "armchair",
+      "name": "West Elm Carlo Midcentury Arm Chair",
+      "price": 699.0,
+      "discount_percentage": 47,
+      "brand": "West Elm",
+      "color": "#",
+      "dimensions": {
+        "width": 29,
+        "height": 33,
+        "dimension": 35
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/west-elm-west-elm-carlo-midcentury-arm-chair/"
+    },
+    {
+      "id": 481746,
+      "category": "armchair",
+      "name": "Lillian August Modern Host Chair",
+      "price": 1935.0,
+      "discount_percentage": 91,
+      "brand": "Lillian August",
+      "color": "#",
+      "dimensions": {
+        "width": 28,
+        "height": 45,
+        "dimension": 26
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/lillian-august-lillian-august-modern-host-chair/"
+    },
+    {
+      "id": 462992,
+      "category": "armchair",
+      "name": "Century Furniture Roll Arm Accent Chair",
+      "price": 1950.0,
+      "discount_percentage": 99,
+      "brand": "Century Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 35,
+        "height": 34,
+        "dimension": 38
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/century-furniture-century-furniture-roll-arm-accent-chair/"
+    },
+    {
+      "id": 513330,
+      "category": "armchair",
+      "name": "Max Home Better By Design Tufted Accent Chair",
+      "price": 1250.0,
+      "discount_percentage": 64,
+      "brand": "Max Home",
+      "color": "#",
+      "dimensions": {
+        "width": 40,
+        "height": 32,
+        "dimension": 35
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/max-home-max-home-better-by-design-tufted-accent-chair-2/"
+    },
+    {
+      "id": 460935,
+      "category": "armchair",
+      "name": "Global Kate Arm Chair",
+      "price": 1691.0,
+      "discount_percentage": 92,
+      "brand": "Global",
+      "color": "#",
+      "dimensions": {
+        "width": 27,
+        "height": 34,
+        "dimension": 24
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/global-global-kate-arm-chair-7/"
+    },
+    {
+      "id": 472949,
+      "category": "armchair",
+      "name": "Havertys Modern Profiles Swivel Chair",
+      "price": 1599.0,
+      "discount_percentage": 90,
+      "brand": "Havertys",
+      "color": "#",
+      "dimensions": {
+        "width": 32,
+        "height": 37,
+        "dimension": 36
+      },
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/havertys-havertys-modern-profiles-swivel-chair-2/"
+    },
+  ]
+}
