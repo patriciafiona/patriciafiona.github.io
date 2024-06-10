@@ -15,6 +15,8 @@
         "height": 33,
         "dimension": 33
       },
+      "seat_height": 18,
+      "seat_depth": 25,
       "photos": [
         "",
         "",
@@ -35,6 +37,8 @@
         "height": 40,
         "dimension": 37
       },
+      "seat_height": 21,
+      "seat_depth": 22,
       "photos": [
         "",
         "",
@@ -55,6 +59,8 @@
         "height": 29,
         "dimension": 34
       },
+      "seat_height": 17,
+      "seat_depth": 23,
       "photos": [
         "",
         "",
@@ -75,6 +81,8 @@
         "height": 33,
         "dimension": 35
       },
+      "seat_height": 18,
+      "seat_depth": 28,
       "photos": [
         "",
         "",
@@ -95,6 +103,8 @@
         "height": 45,
         "dimension": 26
       },
+      "seat_height": 20,
+      "seat_depth": 20,
       "photos": [
         "",
         "",
@@ -113,8 +123,10 @@
       "dimensions": {
         "width": 35,
         "height": 34,
-        "dimension": 38
+        "dimension": 38,
       },
+      "seat_height": 16,
+      "seat_depth": 22,
       "photos": [
         "",
         "",
@@ -135,6 +147,8 @@
         "height": 32,
         "dimension": 35
       },
+      "seat_height": 19,
+      "seat_depth": 23,
       "photos": [
         "",
         "",
@@ -155,6 +169,8 @@
         "height": 34,
         "dimension": 24
       },
+      "seat_height": 19,
+      "seat_depth": 20,
       "photos": [
         "",
         "",
@@ -175,12 +191,344 @@
         "height": 37,
         "dimension": 36
       },
+      "seat_height": 19,
+      "seat_depth": 20,
       "photos": [
         "",
         "",
         ""
       ],
       "url": "https://kaiyo.com/havertys-havertys-modern-profiles-swivel-chair-2/"
+    },
+    {
+      "id": 524641,
+      "category": "armchair",
+      "name": "Crate & Barrel Tess Chair",
+      "price": 1099.0,
+      "discount_percentage": 60,
+      "brand": "Crate & Barrel",
+      "color": "#",
+      "dimensions": {
+        "width": 34,
+        "height": 35,
+        "dimension": 32,
+      },
+      "seat_height": 17,
+      "seat_depth": 22,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/crate-and-barrel-crate-and-barrel-tess-chair-3/"
+    },
+    {
+      "id": 518942,
+      "category": "armchair",
+      "name": "Z Gallerie Luka Corner Chair",
+      "price": 1399.0,
+      "discount_percentage": 67,
+      "brand": "Z Gallerie",
+      "color": "#",
+      "dimensions": {
+        "width": 45,
+        "height": 30,
+        "dimension": 45,
+      },
+      "seat_height": 17,
+      "seat_depth": 25,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/z-gallerie-z-gallerie-luka-corner-chair/"
+    },
+    {
+      "id": 535361,
+      "category": "armchair",
+      "name": "Room & Board Quinn Chair",
+      "price": 1299.0,
+      "discount_percentage": 57,
+      "brand": "Room & Board",
+      "color": "#",
+      "dimensions": {
+        "width": 29,
+        "height": 35,
+        "dimension": 34,
+      },
+      "seat_height": 20,
+      "seat_depth": 23,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/room-and-board-room-and-board-quinn-chair-16/"
+    },
+    {
+      "id": 498328,
+      "category": "armchair",
+      "name": "Ethan Allen Queen Anne Wingback Chair",
+      "price": 1200.0,
+      "discount_percentage": 70,
+      "brand": "Ethan Allen",
+      "color": "#",
+      "dimensions": {
+        "width": 30,
+        "height": 46,
+        "dimension": 30
+      },
+      "seat_height": 22,
+      "seat_depth": 20,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/ethan-allen-ethan-allen-queen-anne-wingback-chair-16/"
+    },
+    {
+      "id": 501955,
+      "category": "armchair",
+      "name": "Taylor King Wingback Accent Chair",
+      "price": 1200.0,
+      "discount_percentage": 71,
+      "brand": "Taylor King",
+      "color": "#",
+      "dimensions": {
+        "width": 34,
+        "height": 41,
+        "dimension": 30
+      },
+      "seat_height": 19,
+      "seat_depth": 21,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/taylor-king-taylor-king-wingback-accent-chair/"
+    },
+    {
+      "id": 535362,
+      "category": "armchair",
+      "name": "Room & Board Quinn Chair",
+      "price": 999.0,
+      "discount_percentage": 48,
+      "brand": "Room & Board",
+      "color": "#",
+      "dimensions": {
+        "width": 29,
+        "height": 35,
+        "dimension": 35
+      },
+      "seat_height": 20,
+      "seat_depth": 23,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/room-and-board-room-and-board-quinn-chair-15/"
+    },
+    {
+      "id": 533424,
+      "category": "armchair",
+      "name": "American Signature Club Chair",
+      "price": 500.0,
+      "discount_percentage": 46,
+      "brand": "American Signature",
+      "color": "#",
+      "dimensions": {
+        "width": 31,
+        "height": 37,
+        "dimension": 35
+      },
+      "seat_height": 17,
+      "seat_depth": 25,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/american-signature-american-signature-club-chair/"
+    },
+    {
+      "id": 517398,
+      "category": "armchair",
+      "name": "Natuzzi Amadeus Armchair",
+      "price": 2450.0,
+      "discount_percentage": 74,
+      "brand": "Natuzzi",
+      "color": "#",
+      "dimensions": {
+        "width": 32,
+        "height": 35,
+        "dimension": 38
+      },
+      "seat_height": 18,
+      "seat_depth": 20,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/natuzzi-natuzzi-amadeus-armchair/"
+    },
+    {
+      "id": 552131,
+      "category": "armchair",
+      "name": "Joybird Owen Chair",
+      "price": 1583.0,
+      "discount_percentage": 59,
+      "brand": "Joybird",
+      "color": "#",
+      "dimensions": {
+        "width": 38,
+        "height": 35,
+        "dimension": 38
+      },
+      "seat_height": 17,
+      "seat_depth": 25,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/joybird-joybird-owen-chair-2/"
+    },
+    {
+      "id": 530268,
+      "category": "armchair",
+      "name": "RH Baby & Child High-Back Slope Arm Upholstered Rocker",
+      "price": 1855.0,
+      "discount_percentage": 70,
+      "brand": "RH Baby & Child",
+      "color": "#",
+      "dimensions": {
+        "width": 31,
+        "height": 37,
+        "dimension": 44
+      },
+      "seat_height": 22,
+      "seat_depth": 24,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/rh-baby-and-child-rh-baby-and-child-high-back-slope-arm-upholstered-rocker/"
+    },
+    {
+      "id": 534659,
+      "category": "armchair",
+      "name": "Lazzoni Mid Century Modern Living Chair",
+      "price": 1775.0,
+      "discount_percentage": 33,
+      "brand": "Lazzoni",
+      "color": "#",
+      "dimensions": {
+        "width": 28,
+        "height": 39,
+        "dimension": 40
+      },
+      "seat_height": 18,
+      "seat_depth": 24,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/lazzoni-lazzoni-mid-century-modern-living-chair-12/"
+    },
+    {
+      "id": 538693,
+      "category": "armchair",
+      "name": "Ethan Allen Grace Chair",
+      "price": 2830.0,
+      "discount_percentage": 74,
+      "brand": "Ethan Allen",
+      "color": "#",
+      "dimensions": {
+        "width": 30,
+        "height": 34,
+        "dimension": 35
+      },
+      "seat_height": 18,
+      "seat_depth": 22,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/ethan-allen-ethan-allen-grace-chair/"
+    },
+    {
+      "id": 541241,
+      "category": "armchair",
+      "name": "Christopher Knight Home Toddman High Back Club Chair",
+      "price": 409.0,
+      "discount_percentage": 44,
+      "brand": "Christopher Knight Home",
+      "color": "#",
+      "dimensions": {
+        "width": 27,
+        "height": 34,
+        "dimension": 32
+      },
+      "seat_height": 23,
+      "seat_depth": 16,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/christopher-knight-home-christopher-knight-home-toddman-high-back-club-chair/"
+    },
+    {
+      "id": 538693,
+      "category": "armchair",
+      "name": "BenchMade Modern Laguna Chair",
+      "price": 1396.0,
+      "discount_percentage": 58,
+      "brand": "BenchMade Modern",
+      "color": "#",
+      "dimensions": {
+        "width": 36,
+        "height": 35,
+        "dimension": 36
+      },
+      "seat_height": 18,
+      "seat_depth": 21,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/benchmade-modern-benchmade-modern-laguna-chair-3/"
+    },
+    {
+      "id": 535074,
+      "category": "armchair",
+      "name": "Noble House Seigfried Arm Chair",
+      "price": 469.0,
+      "discount_percentage": 43,
+      "brand": "Noble House",
+      "color": "#",
+      "dimensions": {
+        "width": 34,
+        "height": 37,
+        "dimension": 31
+      },
+      "seat_height": 21,
+      "seat_depth": 22,
+      "photos": [
+        "",
+        "",
+        ""
+      ],
+      "url": "https://kaiyo.com/noble-house-noble-house-seigfried-arm-chair-2/"
     },
   ]
 }
