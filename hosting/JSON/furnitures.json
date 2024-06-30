@@ -211,7 +211,7 @@
       "dimensions": {
         "width": 34,
         "height": 35,
-        "dimension": 32,
+        "dimension": 32
       },
       "seat_height": 17,
       "seat_depth": 22,
@@ -233,7 +233,7 @@
       "dimensions": {
         "width": 45,
         "height": 30,
-        "dimension": 45,
+        "dimension": 45
       },
       "seat_height": 17,
       "seat_depth": 25,
@@ -255,7 +255,7 @@
       "dimensions": {
         "width": 29,
         "height": 35,
-        "dimension": 34,
+        "dimension": 34
       },
       "seat_height": 20,
       "seat_depth": 23,
@@ -529,6 +529,6 @@
         ""
       ],
       "url": "https://kaiyo.com/noble-house-noble-house-seigfried-arm-chair-2/"
-    },
+    }
   ]
 }
