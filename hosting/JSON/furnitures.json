@@ -47,6 +47,28 @@
       "url": "https://kaiyo.com/bobs-discount-furniture-bobs-discount-furniture-virgo-loveseat/"
     },
     {
+      "id": 506180,
+      "category": "stool",
+      "name": "Arteriors Henson Counter Stool",
+      "price": 780.0,
+      "discount_percentage": 71,
+      "brand": "Arteriors",
+      "color": "#",
+      "dimensions": {
+        "width": 16,
+        "height": 27,
+        "dimension": 16
+      },
+      "seat_height": 24,
+      "seat_depth": 14,
+      "photos": [
+        "506180_01.png",
+        "506180_02.png",
+        "506180_03.png"
+      ],
+      "url": "https://kaiyo.com/arteriors-arteriors-henson-counter-stool-2/"
+    },
+    {
       "id": 531354,
       "category": "armchair",
       "name": "Rooms to Go Ridgewater Chair",
@@ -287,6 +309,28 @@
         "524641_03.png"
       ],
       "url": "https://kaiyo.com/crate-and-barrel-crate-and-barrel-tess-chair-3/"
+    },
+    {
+      "id": 521809,
+      "category": "stool",
+      "name": "RH Baby & Child Kellen Sherpa Stools",
+      "price": 1300.0,
+      "discount_percentage": 76,
+      "brand": "RH Baby & Child",
+      "color": "#",
+      "dimensions": {
+        "width": 21,
+        "height": 20,
+        "dimension": 17
+      },
+      "seat_height": 20,
+      "seat_depth": 17,
+      "photos": [
+        "521809_01.png",
+        "521809_02.png",
+        "521809_03.png"
+      ],
+      "url": "https://kaiyo.com/arteriors-arteriors-henson-counter-stool-2/"
     },
     {
       "id": 518942,
