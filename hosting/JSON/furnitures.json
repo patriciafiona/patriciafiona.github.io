@@ -25,6 +25,28 @@
       "url": "https://kaiyo.com/modway-modway-engage-accent-chair-with-ottoman/"
     },
     {
+      "id": 519587,
+      "category": "sofa",
+      "name": "Bob's Discount Furniture Virgo Loveseat",
+      "price": 579.0,
+      "discount_percentage": 65,
+      "brand": "Bob's Discount Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 67,
+        "height": 42,
+        "dimension": 36
+      },
+      "seat_height": 20,
+      "seat_depth": 23,
+      "photos": [
+        "519587_01.png",
+        "519587_02.png",
+        "519587_03.png"
+      ],
+      "url": "https://kaiyo.com/bobs-discount-furniture-bobs-discount-furniture-virgo-loveseat/"
+    },
+    {
       "id": 531354,
       "category": "armchair",
       "name": "Rooms to Go Ridgewater Chair",
@@ -67,6 +89,28 @@
         "527866_03.png"
       ],
       "url": "https://kaiyo.com/mitchell-gold-bob-williams-mitchell-gold-bob-williams-english-roll-arm-club-chair-3/"
+    },
+    {
+      "id": 460935,
+      "category": "armchair",
+      "name": "Global Kate Arm Chair",
+      "price": 1691.0,
+      "discount_percentage": 92,
+      "brand": "Global",
+      "color": "#",
+      "dimensions": {
+        "width": 27,
+        "height": 34,
+        "dimension": 24
+      },
+      "seat_height": 19,
+      "seat_depth": 20,
+      "photos": [
+        "460935_01.png",
+        "460935_02.png",
+        "460935_03.png"
+      ],
+      "url": "https://kaiyo.com/global-global-kate-arm-chair-7/"
     },
     {
       "id": 538323,
@@ -113,6 +157,28 @@
       "url": "https://kaiyo.com/lillian-august-lillian-august-modern-host-chair/"
     },
     {
+      "id": 549225,
+      "category": "sofa",
+      "name": "Bob's Discount Furniture Trevor Loveseat",
+      "price": 680.0,
+      "discount_percentage": 61,
+      "brand": "Bob's Discount Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 74,
+        "height": 42,
+        "dimension": 41
+      },
+      "seat_height": 20,
+      "seat_depth": 26,
+      "photos": [
+        "549225_01.png",
+        "549225_02.png",
+        "549225_03.png"
+      ],
+      "url": "https://kaiyo.com/bobs-discount-furniture-bobs-discount-furniture-trevor-loveseat/"
+    },
+    {
       "id": 462992,
       "category": "armchair",
       "name": "Century Furniture Roll Arm Accent Chair",
@@ -135,6 +201,28 @@
       "url": "https://kaiyo.com/century-furniture-century-furniture-roll-arm-accent-chair/"
     },
     {
+      "id": 545463,
+      "category": "sofa",
+      "name": "Restoration Hardware Italia Track Arm Sofa",
+      "price": 9060.0,
+      "discount_percentage": 70,
+      "brand": "Restoration Hardware",
+      "color": "#",
+      "dimensions": {
+        "width": 73,
+        "height": 34,
+        "dimension": 43
+      },
+      "seat_height": 19,
+      "seat_depth": 24,
+      "photos": [
+        "545463_01.png",
+        "545463_02.png",
+        "545463_03.png"
+      ],
+      "url": "https://kaiyo.com/restoration-hardware-restoration-hardware-italia-track-arm-sofa-5/"
+    },
+    {
       "id": 513330,
       "category": "armchair",
       "name": "Max Home Better By Design Tufted Accent Chair",
@@ -155,28 +243,6 @@
         "513330_03.png"
       ],
       "url": "https://kaiyo.com/max-home-max-home-better-by-design-tufted-accent-chair-2/"
-    },
-    {
-      "id": 460935,
-      "category": "armchair",
-      "name": "Global Kate Arm Chair",
-      "price": 1691.0,
-      "discount_percentage": 92,
-      "brand": "Global",
-      "color": "#",
-      "dimensions": {
-        "width": 27,
-        "height": 34,
-        "dimension": 24
-      },
-      "seat_height": 19,
-      "seat_depth": 20,
-      "photos": [
-        "460935_01.png",
-        "460935_02.png",
-        "460935_03.png"
-      ],
-      "url": "https://kaiyo.com/global-global-kate-arm-chair-7/"
     },
     {
       "id": 472949,
@@ -399,28 +465,6 @@
       "url": "https://kaiyo.com/joybird-joybird-owen-chair-2/"
     },
     {
-      "id": 530268,
-      "category": "armchair",
-      "name": "RH Baby & Child High-Back Slope Arm Upholstered Rocker",
-      "price": 1855.0,
-      "discount_percentage": 70,
-      "brand": "RH Baby & Child",
-      "color": "#",
-      "dimensions": {
-        "width": 31,
-        "height": 37,
-        "dimension": 44
-      },
-      "seat_height": 22,
-      "seat_depth": 24,
-      "photos": [
-        "530268_01.png",
-        "530268_02.png",
-        "530268_03.png"
-      ],
-      "url": "https://kaiyo.com/rh-baby-and-child-rh-baby-and-child-high-back-slope-arm-upholstered-rocker/"
-    },
-    {
       "id": 534659,
       "category": "armchair",
       "name": "Lazzoni Mid Century Modern Living Chair",
@@ -463,6 +507,28 @@
         "538693_03.png"
       ],
       "url": "https://kaiyo.com/ethan-allen-ethan-allen-grace-chair/"
+    },
+    {
+      "id": 530268,
+      "category": "armchair",
+      "name": "RH Baby & Child High-Back Slope Arm Upholstered Rocker",
+      "price": 1855.0,
+      "discount_percentage": 70,
+      "brand": "RH Baby & Child",
+      "color": "#",
+      "dimensions": {
+        "width": 31,
+        "height": 37,
+        "dimension": 44
+      },
+      "seat_height": 22,
+      "seat_depth": 24,
+      "photos": [
+        "530268_01.png",
+        "530268_02.png",
+        "530268_03.png"
+      ],
+      "url": "https://kaiyo.com/rh-baby-and-child-rh-baby-and-child-high-back-slope-arm-upholstered-rocker/"
     },
     {
       "id": 541241,
