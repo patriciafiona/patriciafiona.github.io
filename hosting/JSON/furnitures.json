@@ -69,6 +69,28 @@
       "url": "https://kaiyo.com/mitchell-gold-bob-williams-mitchell-gold-bob-williams-english-roll-arm-club-chair-3/"
     },
     {
+      "id": 460935,
+      "category": "armchair",
+      "name": "Global Kate Arm Chair",
+      "price": 1691.0,
+      "discount_percentage": 92,
+      "brand": "Global",
+      "color": "#",
+      "dimensions": {
+        "width": 27,
+        "height": 34,
+        "dimension": 24
+      },
+      "seat_height": 19,
+      "seat_depth": 20,
+      "photos": [
+        "460935_01.png",
+        "460935_02.png",
+        "460935_03.png"
+      ],
+      "url": "https://kaiyo.com/global-global-kate-arm-chair-7/"
+    },
+    {
       "id": 538323,
       "category": "armchair",
       "name": "West Elm Carlo Midcentury Arm Chair",
@@ -155,28 +177,6 @@
         "513330_03.png"
       ],
       "url": "https://kaiyo.com/max-home-max-home-better-by-design-tufted-accent-chair-2/"
-    },
-    {
-      "id": 460935,
-      "category": "armchair",
-      "name": "Global Kate Arm Chair",
-      "price": 1691.0,
-      "discount_percentage": 92,
-      "brand": "Global",
-      "color": "#",
-      "dimensions": {
-        "width": 27,
-        "height": 34,
-        "dimension": 24
-      },
-      "seat_height": 19,
-      "seat_depth": 20,
-      "photos": [
-        "460935_01.png",
-        "460935_02.png",
-        "460935_03.png"
-      ],
-      "url": "https://kaiyo.com/global-global-kate-arm-chair-7/"
     },
     {
       "id": 472949,
@@ -399,28 +399,6 @@
       "url": "https://kaiyo.com/joybird-joybird-owen-chair-2/"
     },
     {
-      "id": 530268,
-      "category": "armchair",
-      "name": "RH Baby & Child High-Back Slope Arm Upholstered Rocker",
-      "price": 1855.0,
-      "discount_percentage": 70,
-      "brand": "RH Baby & Child",
-      "color": "#",
-      "dimensions": {
-        "width": 31,
-        "height": 37,
-        "dimension": 44
-      },
-      "seat_height": 22,
-      "seat_depth": 24,
-      "photos": [
-        "530268_01.png",
-        "530268_02.png",
-        "530268_03.png"
-      ],
-      "url": "https://kaiyo.com/rh-baby-and-child-rh-baby-and-child-high-back-slope-arm-upholstered-rocker/"
-    },
-    {
       "id": 534659,
       "category": "armchair",
       "name": "Lazzoni Mid Century Modern Living Chair",
@@ -463,6 +441,28 @@
         "538693_03.png"
       ],
       "url": "https://kaiyo.com/ethan-allen-ethan-allen-grace-chair/"
+    },
+    {
+      "id": 530268,
+      "category": "armchair",
+      "name": "RH Baby & Child High-Back Slope Arm Upholstered Rocker",
+      "price": 1855.0,
+      "discount_percentage": 70,
+      "brand": "RH Baby & Child",
+      "color": "#",
+      "dimensions": {
+        "width": 31,
+        "height": 37,
+        "dimension": 44
+      },
+      "seat_height": 22,
+      "seat_depth": 24,
+      "photos": [
+        "530268_01.png",
+        "530268_02.png",
+        "530268_03.png"
+      ],
+      "url": "https://kaiyo.com/rh-baby-and-child-rh-baby-and-child-high-back-slope-arm-upholstered-rocker/"
     },
     {
       "id": 541241,
