@@ -25,6 +25,28 @@
       "url": "https://kaiyo.com/modway-modway-engage-accent-chair-with-ottoman/"
     },
     {
+      "id": 519587,
+      "category": "sofa",
+      "name": "Bob's Discount Furniture Virgo Loveseat",
+      "price": 579.0,
+      "discount_percentage": 65,
+      "brand": "Bob's Discount Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 67,
+        "height": 42,
+        "dimension": 36
+      },
+      "seat_height": 20,
+      "seat_depth": 23,
+      "photos": [
+        "519587_01.png",
+        "519587_02.png",
+        "519587_03.png"
+      ],
+      "url": "https://kaiyo.com/bobs-discount-furniture-bobs-discount-furniture-virgo-loveseat/"
+    },
+    {
       "id": 531354,
       "category": "armchair",
       "name": "Rooms to Go Ridgewater Chair",
@@ -135,6 +157,28 @@
       "url": "https://kaiyo.com/lillian-august-lillian-august-modern-host-chair/"
     },
     {
+      "id": 549225,
+      "category": "sofa",
+      "name": "Bob's Discount Furniture Trevor Loveseat",
+      "price": 680.0,
+      "discount_percentage": 61,
+      "brand": "Bob's Discount Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 74,
+        "height": 42,
+        "dimension": 41
+      },
+      "seat_height": 20,
+      "seat_depth": 26,
+      "photos": [
+        "549225_01.png",
+        "549225_02.png",
+        "549225_03.png"
+      ],
+      "url": "https://kaiyo.com/bobs-discount-furniture-bobs-discount-furniture-trevor-loveseat/"
+    },
+    {
       "id": 462992,
       "category": "armchair",
       "name": "Century Furniture Roll Arm Accent Chair",
@@ -155,6 +199,28 @@
         "462992_03.png"
       ],
       "url": "https://kaiyo.com/century-furniture-century-furniture-roll-arm-accent-chair/"
+    },
+    {
+      "id": 545463,
+      "category": "sofa",
+      "name": "Restoration Hardware Italia Track Arm Sofa",
+      "price": 9060.0,
+      "discount_percentage": 70,
+      "brand": "Restoration Hardware",
+      "color": "#",
+      "dimensions": {
+        "width": 73,
+        "height": 34,
+        "dimension": 43
+      },
+      "seat_height": 19,
+      "seat_depth": 24,
+      "photos": [
+        "545463_01.png",
+        "545463_02.png",
+        "545463_03.png"
+      ],
+      "url": "https://kaiyo.com/restoration-hardware-restoration-hardware-italia-track-arm-sofa-5/"
     },
     {
       "id": 513330,
