@@ -25,6 +25,26 @@
       "url": "https://kaiyo.com/modway-modway-engage-accent-chair-with-ottoman/"
     },
     {
+      "id": 498276,
+      "category": "bed",
+      "name": "Modrest Hemlock Modern King Bed",
+      "price": 2010.0,
+      "discount_percentage": 73,
+      "brand": "Modrest",
+      "color": "#",
+      "dimensions": {
+        "width": 84,
+        "height": 66,
+        "dimension": 86
+      },
+      "photos": [
+        "498276_01.png",
+        "498276_02.png",
+        "498276_03.png"
+      ],
+      "url": "https://kaiyo.com/modrest-modrest-hemlock-modern-king-bed/"
+    },
+    {
       "id": 519587,
       "category": "sofa",
       "name": "Bob's Discount Furniture Virgo Loveseat",
@@ -111,6 +131,26 @@
         "527866_03.png"
       ],
       "url": "https://kaiyo.com/mitchell-gold-bob-williams-mitchell-gold-bob-williams-english-roll-arm-club-chair-3/"
+    },
+    {
+      "id": 486520,
+      "category": "bed",
+      "name": "Baker Furniture Moderne Platform King Bed",
+      "price": 16500.0,
+      "discount_percentage": 79,
+      "brand": "Baker Furniture",
+      "color": "#",
+      "dimensions": {
+        "width": 83,
+        "height": 50,
+        "dimension": 93
+      },
+      "photos": [
+        "486520_01.png",
+        "486520_02.png",
+        "486520_03.png"
+      ],
+      "url": "https://kaiyo.com/modrest-modrest-hemlock-modern-king-bed/"
     },
     {
       "id": 460935,
