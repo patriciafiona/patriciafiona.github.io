@@ -373,6 +373,26 @@
       "url": "https://kaiyo.com/arteriors-arteriors-henson-counter-stool-2/"
     },
     {
+      "id": 556956,
+      "category": "storage",
+      "name": "Restoration Hardware Machinto Eight Drawer Dresser",
+      "price": 4650.0,
+      "discount_percentage": 68,
+      "brand": "Restoration Hardware",
+      "color": "#",
+      "dimensions": {
+        "width": 72,
+        "height": 43,
+        "dimension": 23
+      },
+      "photos": [
+        "556956_01.png",
+        "556956_02.png",
+        "556956_03.png"
+      ],
+      "url": "https://kaiyo.com/grange-grange-farmhouse-buffet/"
+    },
+    {
       "id": 518942,
       "category": "armchair",
       "name": "Z Gallerie Luka Corner Chair",
@@ -439,6 +459,26 @@
       "url": "https://kaiyo.com/ethan-allen-ethan-allen-queen-anne-wingback-chair-16/"
     },
     {
+      "id": 561961,
+      "category": "storage",
+      "name": "Homary Contemporary Sideboard",
+      "price": 900.0,
+      "discount_percentage": 52,
+      "brand": "Homary",
+      "color": "#",
+      "dimensions": {
+        "width": 48,
+        "height": 34,
+        "dimension": 16
+      },
+      "photos": [
+        "561961_01.png",
+        "561961_02.png",
+        "561961_03.png"
+      ],
+      "url": "https://kaiyo.com/grange-grange-farmhouse-buffet/"
+    },
+    {
       "id": 501955,
       "category": "armchair",
       "name": "Taylor King Wingback Accent Chair",
@@ -481,6 +521,46 @@
         "535362_03.png"
       ],
       "url": "https://kaiyo.com/room-and-board-room-and-board-quinn-chair-15/"
+    },
+    {
+      "id": 539269,
+      "category": "storage",
+      "name": "Grange Farmhouse Buffet",
+      "price": 5500.0,
+      "discount_percentage": 76,
+      "brand": "Grange",
+      "color": "#",
+      "dimensions": {
+        "width": 74,
+        "height": 34,
+        "dimension": 33
+      },
+      "photos": [
+        "539269_01.png",
+        "539269_02.png",
+        "539269_03.png"
+      ],
+      "url": "https://kaiyo.com/grange-grange-farmhouse-buffet/"
+    },
+    {
+      "id": 504671,
+      "category": "table",
+      "name": "Christopher Guy Art Deco Round Accent Table",
+      "price": 3500.0,
+      "discount_percentage": 88,
+      "brand": "Christopher Guy",
+      "color": "#",
+      "dimensions": {
+        "width": 42,
+        "height": 30,
+        "dimension": 42
+      },
+      "photos": [
+        "504671_01.png",
+        "504671_02.png",
+        "504671_03.png"
+      ],
+      "url": "https://kaiyo.com/christopher-guy-christopher-guy-art-deco-round-accent-table/"
     },
     {
       "id": 533424,
@@ -571,6 +651,26 @@
       "url": "https://kaiyo.com/lazzoni-lazzoni-mid-century-modern-living-chair-12/"
     },
     {
+      "id": 551861,
+      "category": "table",
+      "name": "Zanotta Oscar Night Table",
+      "price": 1247.0,
+      "discount_percentage": 74,
+      "brand": "Zanotta",
+      "color": "#",
+      "dimensions": {
+        "width": 16,
+        "height": 18,
+        "dimension": 16
+      },
+      "photos": [
+        "551861_01.png",
+        "551861_02.png",
+        "551861_03.png"
+      ],
+      "url": "https://kaiyo.com/zanotta-zanotta-oscar-night-table/"
+    },
+    {
       "id": 538693,
       "category": "armchair",
       "name": "Ethan Allen Grace Chair",
@@ -591,6 +691,26 @@
         "538693_03.png"
       ],
       "url": "https://kaiyo.com/ethan-allen-ethan-allen-grace-chair/"
+    },
+    {
+      "id": 527673,
+      "category": "table",
+      "name": "Restoration Hardware Reclaimed Industrial Coffee Table",
+      "price": 1237.0,
+      "discount_percentage": 67,
+      "brand": "Restoration Hardware",
+      "color": "#",
+      "dimensions": {
+        "width": 60,
+        "height": 17,
+        "dimension": 60
+      },
+      "photos": [
+        "527673_01.png",
+        "527673_02.png",
+        "527673_03.png"
+      ],
+      "url": "https://kaiyo.com/restoration-hardware-restoration-hardware-reclaimed-industrial-coffee-table-2/"
     },
     {
       "id": 530268,
@@ -657,6 +777,26 @@
         "538693_03.png"
       ],
       "url": "https://kaiyo.com/benchmade-modern-benchmade-modern-laguna-chair-3/"
+    },
+    {
+      "id": 528169,
+      "category": "table",
+      "name": "Pottery Barn Kids Beadboard Cabinet Bedside Table",
+      "price": 349.0,
+      "discount_percentage": 41,
+      "brand": "Pottery Barn Kids",
+      "color": "#",
+      "dimensions": {
+        "width": 21,
+        "height": 19,
+        "dimension": 18
+      },
+      "photos": [
+        "528169_01.png",
+        "528169_02.png",
+        "528169_03.png"
+      ],
+      "url": "https://kaiyo.com/pottery-barn-kids-pottery-barn-kids-beadboard-cabinet-bedside-table/"
     },
     {
       "id": 535074,
