@@ -9,7 +9,7 @@
       "price": 1049.0,
       "discount_percentage": 35,
       "brand": "Modway",
-      "color": "#",
+      "color": "#c9563c",
       "dimensions": {
         "width": 40,
         "height": 33,
@@ -31,7 +31,7 @@
       "price": 2010.0,
       "discount_percentage": 73,
       "brand": "Modrest",
-      "color": "#",
+      "color": "#514f54",
       "dimensions": {
         "width": 84,
         "height": 66,
@@ -51,7 +51,7 @@
       "price": 579.0,
       "discount_percentage": 65,
       "brand": "Bob's Discount Furniture",
-      "color": "#",
+      "color": "#7a7f76",
       "dimensions": {
         "width": 67,
         "height": 42,
@@ -73,7 +73,7 @@
       "price": 780.0,
       "discount_percentage": 71,
       "brand": "Arteriors",
-      "color": "#",
+      "color": "#c3a27d",
       "dimensions": {
         "width": 16,
         "height": 27,
@@ -95,7 +95,7 @@
       "price": 499.0,
       "discount_percentage": 44,
       "brand": "Rooms To Go",
-      "color": "#",
+      "color": "#b8b3a8",
       "dimensions": {
         "width": 41,
         "height": 40,
@@ -117,7 +117,7 @@
       "price": 2000.0,
       "discount_percentage": 72,
       "brand": "Mitchell Gold + Bob Williams",
-      "color": "#",
+      "color": "#ddd8c1",
       "dimensions": {
         "width": 32,
         "height": 29,
@@ -139,7 +139,7 @@
       "price": 16500.0,
       "discount_percentage": 79,
       "brand": "Baker Furniture",
-      "color": "#",
+      "color": "#e8e2d1",
       "dimensions": {
         "width": 83,
         "height": 50,
@@ -159,7 +159,7 @@
       "price": 1691.0,
       "discount_percentage": 92,
       "brand": "Global",
-      "color": "#",
+      "color": "#292d48",
       "dimensions": {
         "width": 27,
         "height": 34,
@@ -181,7 +181,7 @@
       "price": 699.0,
       "discount_percentage": 47,
       "brand": "West Elm",
-      "color": "#",
+      "color": "#c8c3b6",
       "dimensions": {
         "width": 29,
         "height": 33,
@@ -203,7 +203,7 @@
       "price": 1935.0,
       "discount_percentage": 91,
       "brand": "Lillian August",
-      "color": "#",
+      "color": "#c9bda6",
       "dimensions": {
         "width": 28,
         "height": 45,
@@ -225,7 +225,7 @@
       "price": 680.0,
       "discount_percentage": 61,
       "brand": "Bob's Discount Furniture",
-      "color": "#",
+      "color": "#a18e78",
       "dimensions": {
         "width": 74,
         "height": 42,
@@ -247,7 +247,7 @@
       "price": 1950.0,
       "discount_percentage": 99,
       "brand": "Century Furniture",
-      "color": "#",
+      "color": "#dec99a",
       "dimensions": {
         "width": 35,
         "height": 34,
@@ -269,7 +269,7 @@
       "price": 9060.0,
       "discount_percentage": 70,
       "brand": "Restoration Hardware",
-      "color": "#",
+      "color": "#c8c7c5",
       "dimensions": {
         "width": 73,
         "height": 34,
@@ -291,7 +291,7 @@
       "price": 1250.0,
       "discount_percentage": 64,
       "brand": "Max Home",
-      "color": "#",
+      "color": "#c4bca9",
       "dimensions": {
         "width": 40,
         "height": 32,
@@ -313,7 +313,7 @@
       "price": 1599.0,
       "discount_percentage": 90,
       "brand": "Havertys",
-      "color": "#",
+      "color": "#a7a49b",
       "dimensions": {
         "width": 32,
         "height": 37,
@@ -335,7 +335,7 @@
       "price": 1099.0,
       "discount_percentage": 60,
       "brand": "Crate & Barrel",
-      "color": "#",
+      "color": "#5c8397",
       "dimensions": {
         "width": 34,
         "height": 35,
@@ -357,7 +357,7 @@
       "price": 1300.0,
       "discount_percentage": 76,
       "brand": "RH Baby & Child",
-      "color": "#",
+      "color": "#efeeea",
       "dimensions": {
         "width": 21,
         "height": 20,
@@ -379,7 +379,7 @@
       "price": 4650.0,
       "discount_percentage": 68,
       "brand": "Restoration Hardware",
-      "color": "#",
+      "color": "#a69f8e",
       "dimensions": {
         "width": 72,
         "height": 43,
@@ -399,7 +399,7 @@
       "price": 1399.0,
       "discount_percentage": 67,
       "brand": "Z Gallerie",
-      "color": "#",
+      "color": "#cac5b2",
       "dimensions": {
         "width": 45,
         "height": 30,
@@ -421,7 +421,7 @@
       "price": 1299.0,
       "discount_percentage": 57,
       "brand": "Room & Board",
-      "color": "#",
+      "color": "#cecaa4",
       "dimensions": {
         "width": 29,
         "height": 35,
@@ -443,7 +443,7 @@
       "price": 1200.0,
       "discount_percentage": 70,
       "brand": "Ethan Allen",
-      "color": "#",
+      "color": "#eec8a1",
       "dimensions": {
         "width": 30,
         "height": 46,
@@ -465,7 +465,7 @@
       "price": 900.0,
       "discount_percentage": 52,
       "brand": "Homary",
-      "color": "#",
+      "color": "#323033",
       "dimensions": {
         "width": 48,
         "height": 34,
@@ -485,7 +485,7 @@
       "price": 1200.0,
       "discount_percentage": 71,
       "brand": "Taylor King",
-      "color": "#",
+      "color": "#e6deb9",
       "dimensions": {
         "width": 34,
         "height": 41,
@@ -507,7 +507,7 @@
       "price": 999.0,
       "discount_percentage": 48,
       "brand": "Room & Board",
-      "color": "#",
+      "color": "#d2b59d",
       "dimensions": {
         "width": 29,
         "height": 35,
@@ -529,7 +529,7 @@
       "price": 5500.0,
       "discount_percentage": 76,
       "brand": "Grange",
-      "color": "#",
+      "color": "#e5dfce",
       "dimensions": {
         "width": 74,
         "height": 34,
@@ -549,7 +549,7 @@
       "price": 3500.0,
       "discount_percentage": 88,
       "brand": "Christopher Guy",
-      "color": "#",
+      "color": "#3d2827",
       "dimensions": {
         "width": 42,
         "height": 30,
@@ -569,7 +569,7 @@
       "price": 500.0,
       "discount_percentage": 46,
       "brand": "American Signature",
-      "color": "#",
+      "color": "#6a6761",
       "dimensions": {
         "width": 31,
         "height": 37,
@@ -591,7 +591,7 @@
       "price": 2450.0,
       "discount_percentage": 74,
       "brand": "Natuzzi",
-      "color": "#",
+      "color": "#ebe8e2",
       "dimensions": {
         "width": 32,
         "height": 35,
@@ -613,7 +613,7 @@
       "price": 1583.0,
       "discount_percentage": 59,
       "brand": "Joybird",
-      "color": "#",
+      "color": "#202e5e",
       "dimensions": {
         "width": 38,
         "height": 35,
@@ -635,7 +635,7 @@
       "price": 1775.0,
       "discount_percentage": 33,
       "brand": "Lazzoni",
-      "color": "#",
+      "color": "#8d8d8f",
       "dimensions": {
         "width": 28,
         "height": 39,
@@ -657,7 +657,7 @@
       "price": 1247.0,
       "discount_percentage": 74,
       "brand": "Zanotta",
-      "color": "#",
+      "color": "#141110",
       "dimensions": {
         "width": 16,
         "height": 18,
@@ -677,7 +677,7 @@
       "price": 2830.0,
       "discount_percentage": 74,
       "brand": "Ethan Allen",
-      "color": "#",
+      "color": "#baac8b",
       "dimensions": {
         "width": 30,
         "height": 34,
@@ -699,7 +699,7 @@
       "price": 1237.0,
       "discount_percentage": 67,
       "brand": "Restoration Hardware",
-      "color": "#",
+      "color": "#40311c",
       "dimensions": {
         "width": 60,
         "height": 17,
@@ -719,7 +719,7 @@
       "price": 1855.0,
       "discount_percentage": 70,
       "brand": "RH Baby & Child",
-      "color": "#",
+      "color": "#ccc9c3",
       "dimensions": {
         "width": 31,
         "height": 37,
@@ -741,7 +741,7 @@
       "price": 409.0,
       "discount_percentage": 44,
       "brand": "Christopher Knight Home",
-      "color": "#",
+      "color": "#c2b69f",
       "dimensions": {
         "width": 27,
         "height": 34,
@@ -757,13 +757,13 @@
       "url": "https://kaiyo.com/christopher-knight-home-christopher-knight-home-toddman-high-back-club-chair/"
     },
     {
-      "id": 538693,
+      "id": 533975,
       "category": "armchair",
       "name": "BenchMade Modern Laguna Chair",
       "price": 1396.0,
       "discount_percentage": 58,
       "brand": "BenchMade Modern",
-      "color": "#",
+      "color": "#a79267",
       "dimensions": {
         "width": 36,
         "height": 35,
@@ -772,9 +772,9 @@
       "seat_height": 18,
       "seat_depth": 21,
       "photos": [
-        "538693_01.png",
-        "538693_02.png",
-        "538693_03.png"
+        "533975_01.png",
+        "533975_02.png",
+        "533975_03.png"
       ],
       "url": "https://kaiyo.com/benchmade-modern-benchmade-modern-laguna-chair-3/"
     },
@@ -785,7 +785,7 @@
       "price": 349.0,
       "discount_percentage": 41,
       "brand": "Pottery Barn Kids",
-      "color": "#",
+      "color": "#e2e0d2",
       "dimensions": {
         "width": 21,
         "height": 19,
@@ -805,7 +805,7 @@
       "price": 469.0,
       "discount_percentage": 43,
       "brand": "Noble House",
-      "color": "#",
+      "color": "#e9e4d9",
       "dimensions": {
         "width": 34,
         "height": 37,
