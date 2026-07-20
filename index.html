@@ -7,7 +7,7 @@
 </head>
 <body>
 <x-dc>
-<template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#121110"/><text x="200" y="180" font-family="Archivo,sans-serif" font-size="120" font-weight="700" fill="#f3f2f2" text-anchor="middle">PF</text><text x="200" y="250" font-family="Archivo,sans-serif" font-size="26" letter-spacing="6" fill="#e85d04" text-anchor="middle">PORTFOLIO</text></svg></template>
+<template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#121110"></rect><text x="200" y="180" font-family="Archivo,sans-serif" font-size="120" font-weight="700" fill="#f3f2f2" text-anchor="middle">PF</text><text x="200" y="250" font-family="Archivo,sans-serif" font-size="26" letter-spacing="6" fill="#e85d04" text-anchor="middle">PORTFOLIO</text></svg></template>
 <helmet>
 <link rel="stylesheet" href="_ds/modernist-1cb5ec84-8d96-45f1-be1c-1f31f9ace0f2/styles.css">
 <script src="_ds/modernist-1cb5ec84-8d96-45f1-be1c-1f31f9ace0f2/_ds_bundle.js"></script>
@@ -303,11 +303,48 @@ a{color:#f3f2f2;text-decoration:none}a:hover{color:#e85d04}
       </div>
     </div>
   </section>
+  <!-- NOW BUILDING (3D spotlight) -->
+  <section id="spotlight" data-screen-label="Now building" style="position:relative;overflow:hidden;border-top:2px solid #2b2825;background:#0b0a09">
+    <div data-depth="60" style="position:absolute;top:-20%;right:-10%;width:55vw;height:55vw;border-radius:50%;background:radial-gradient(circle,rgba(232,93,4,.16),transparent 65%);pointer-events:none;will-change:transform"></div>
+    <div data-depth="34" style="position:absolute;bottom:-25%;left:-12%;width:48vw;height:48vw;border-radius:50%;background:radial-gradient(circle,rgba(120,60,20,.22),transparent 65%);pointer-events:none;will-change:transform"></div>
+    <div data-depth="90" aria-hidden="true" style="position:absolute;top:8%;left:50%;font-size:200px;font-weight:700;line-height:1;color:transparent;-webkit-text-stroke:1px #2b2825;pointer-events:none;will-change:transform">05</div>
+    <div style="position:relative;min-height:100vh;padding:56px;z-index:1">
+      <div style="display:flex;align-items:center;gap:14px;margin-bottom:20px">
+        <span style="color:{{ accent }};font-size:13px;letter-spacing:.06em">05</span>
+        <span style="width:36px;height:1px;background:#3a3632"></span>
+        <span style="font-size:13px;letter-spacing:.14em;color:#8f8a84">ON YOUTUBE</span>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:48px">
+        <h2 style="margin:0;font-size:clamp(48px,5.6vw,88px);line-height:1.02;font-weight:500;letter-spacing:-.015em">SHARING THE LEARNING RESULTS.</h2>
+        <div style="width:min(420px,30vw);flex:none;padding-top:12px">
+          <p style="margin:0 0 16px;font-size:15.5px;line-height:1.7;color:#b9b4af">Off the clock I document my clone projects on YouTube — source on GitHub, results on screen.</p>
+          <a href="https://www.youtube.com/@patriciafiona" target="_blank" rel="noopener" style="display:inline-block;font-size:13px;font-weight:600;letter-spacing:.08em;color:#f3f2f2;border-bottom:1px solid #3a3632;padding-bottom:4px;transition:color .2s,border-color .2s" style-hover="color:{{ accent }};border-color:{{ accent }}">WATCH ON YOUTUBE →</a>
+        </div>
+      </div>
+      <div style="position:absolute;left:56px;top:50%;transform:translateY(-30%);display:flex;flex-direction:column;gap:18px;z-index:3">
+        <span style="font-size:17px;color:#f3f2f2;border-left:2px solid {{ accent }};padding-left:16px">UI clone showcases</span>
+        <span style="font-size:17px;color:#8f8a84;border-left:2px solid #2b2825;padding-left:16px;transition:color .2s,border-color .2s" style-hover="color:#f3f2f2;border-color:{{ accent }}">Result previews</span>
+        <span style="font-size:17px;color:#8f8a84;border-left:2px solid #2b2825;padding-left:16px;transition:color .2s,border-color .2s" style-hover="color:#f3f2f2;border-color:{{ accent }}">Source on GitHub</span>
+        <span style="font-size:17px;color:#8f8a84;border-left:2px solid #2b2825;padding-left:16px;transition:color .2s,border-color .2s" style-hover="color:#f3f2f2;border-color:{{ accent }}">Android · iOS · Flutter</span>
+      </div>
+      <div style="display:flex;justify-content:center;margin-top:48px;perspective:1400px">
+        <div data-tilt="" style="width:min(1060px,58vw);aspect-ratio:4/3;position:relative;transform-style:preserve-3d;will-change:transform;transition:transform .12s linear">
+          <div style="position:absolute;inset:0;border-radius:34px;background:linear-gradient(145deg,#2a2725,#171514);border:1px solid #3a3632;box-shadow:0 60px 120px rgba(0,0,0,.65);z-index:1"></div>
+          <div style="position:absolute;top:2.8%;left:2.2%;right:2.2%;bottom:2.8%;border-radius:18px;overflow:hidden;background:#121110;z-index:2">
+            <video src="uploads/Screen Recording 2026-07-20 at 19.57.58.mp4" autoplay="{{ true }}" loop="{{ true }}" muted="{{ true }}" playsinline="{{ true }}" style="width:100%;height:100%;object-fit:cover;display:block"></video>
+          </div>
+          <div style="position:absolute;top:1.2%;left:50%;transform:translateX(-50%);width:6px;height:6px;border-radius:50%;background:#0b0a09;z-index:3"></div>
+          <div style="position:absolute;inset:-8%;background:radial-gradient(ellipse at center,rgba(232,93,4,.14),transparent 70%);z-index:0;pointer-events:none"></div>
+        </div>
+      </div>
+      <p style="position:absolute;bottom:40px;left:50%;transform:translateX(-50%);margin:0;font-size:13px;letter-spacing:.1em;color:#8f8a84">MOVE YOUR CURSOR <span style="color:{{ accent }}">✳</span></p>
+    </div>
+  </section>
   <!-- CONTACT -->
   <section id="contact" data-screen-label="Contact" data-reveal="" style="position:relative;overflow:hidden;opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease;border-top:2px solid #2b2825;max-width:1320px;margin:0 auto;padding:96px 56px 96px">
-    <div data-plx="-0.08" aria-hidden="true" style="position:absolute;right:-30px;top:0;font-size:280px;font-weight:700;line-height:1;color:transparent;-webkit-text-stroke:1px #2b2825;pointer-events:none;will-change:transform;z-index:-1">05</div>
+    <div data-plx="-0.08" aria-hidden="true" style="position:absolute;right:-30px;top:0;font-size:280px;font-weight:700;line-height:1;color:transparent;-webkit-text-stroke:1px #2b2825;pointer-events:none;will-change:transform;z-index:-1">06</div>
     <div style="display:flex;align-items:center;gap:14px;margin-bottom:24px">
-      <span style="color:{{ accent }};font-size:13px;letter-spacing:.06em">05</span>
+      <span style="color:{{ accent }};font-size:13px;letter-spacing:.06em">06</span>
       <span style="width:36px;height:1px;background:#3a3632"></span>
       <span style="font-size:13px;letter-spacing:.14em;color:#8f8a84">CONTACT</span>
     </div>
@@ -416,11 +453,40 @@ class Component extends DCLogic {
     };
     window.addEventListener('scroll', this._onScroll, { passive: true });
     this._onScroll();
+    this._mRaf = null;
+    this._onMouse = (e) => {
+      if (this._mRaf) return;
+      this._mRaf = requestAnimationFrame(() => {
+        this._mRaf = null;
+        const sp = document.getElementById('spotlight');
+        if (!sp) return;
+        const r = sp.getBoundingClientRect();
+        if (r.bottom < 0 || r.top > window.innerHeight) return;
+        const nx = (e.clientX / window.innerWidth) * 2 - 1;
+        const ny = (e.clientY / window.innerHeight) * 2 - 1;
+        const tilt = sp.querySelector('[data-tilt]');
+        if (tilt) tilt.style.transform = `rotateY(${nx * 10}deg) rotateX(${-ny * 8}deg)`;
+        sp.querySelectorAll('[data-depth]').forEach((el) => {
+          const d = parseFloat(el.dataset.depth);
+          el.style.transform = `translate(${-nx * d}px, ${-ny * d}px)`;
+        });
+      });
+    };
+    window.addEventListener('mousemove', this._onMouse, { passive: true });
+    this._vidT = setInterval(() => {
+      const v = document.querySelector('#spotlight video');
+      if (!v) return;
+      v.muted = true; v.loop = true;
+      if (v.paused) v.play().catch(() => {});
+      clearInterval(this._vidT);
+    }, 400);
   }
   componentWillUnmount() {
     if (this._io) this._io.disconnect();
     if (this._onScroll) window.removeEventListener('scroll', this._onScroll);
     if (this._raf) cancelAnimationFrame(this._raf);
+    if (this._onMouse) window.removeEventListener('mousemove', this._onMouse);
+    if (this._mRaf) cancelAnimationFrame(this._mRaf);
   }
   renderVals() {
     return {
